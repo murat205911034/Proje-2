@@ -5,6 +5,6 @@ Projede kullanılan tasarım; https://github.com/BootstrapDash/PurpleAdmin-Free-
 
 Tasarım bootstrap destekli bir tasarımdır.
 
-Javascript tarafında kullanılan kütüphaneler;
+Projede javascript tarafında kullanılan kütüphaneler;
 
 SweetAlert2: https://sweetalert2.github.io/
