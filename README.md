@@ -1,2 +1,10 @@
 # Proje-2-
-https://github.com/BootstrapDash/PurpleAdmin-Free-Admin-Template    yapmış olduğum araştıma   İçerisindeki tüm javascript kodları ve diğer componentler kaldırıldı işe yarıyacak olan sistemler eklendi tasarımın sadece css kodlarından faydanıldı 
+Projede kullanılan tasarım; https://github.com/BootstrapDash/PurpleAdmin-Free-Admin-Template
+
+İlgili tasarımda barınan tüm javascript dosyaları temizlendi. Tasarımın sadece css kodlarından faydalanıldı.
+
+Tasarım bootstrap destekli bir tasarımdır.
+
+Javascript tarafında kullanılan kütüphaneler;
+
+SweetAlert2: https://sweetalert2.github.io/
